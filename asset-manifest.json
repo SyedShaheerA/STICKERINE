@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/STICKERINE/static/css/main.3a16c636.css",
-    "main.js": "/STICKERINE/static/js/main.ed795c5c.js",
+    "main.css": "/STICKERINE/static/css/main.09927be4.css",
+    "main.js": "/STICKERINE/static/js/main.f5f3539e.js",
     "static/js/453.171ddc7f.chunk.js": "/STICKERINE/static/js/453.171ddc7f.chunk.js",
     "static/media/logo.svg": "/STICKERINE/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/STICKERINE/index.html",
-    "main.3a16c636.css.map": "/STICKERINE/static/css/main.3a16c636.css.map",
-    "main.ed795c5c.js.map": "/STICKERINE/static/js/main.ed795c5c.js.map",
+    "main.09927be4.css.map": "/STICKERINE/static/css/main.09927be4.css.map",
+    "main.f5f3539e.js.map": "/STICKERINE/static/js/main.f5f3539e.js.map",
     "453.171ddc7f.chunk.js.map": "/STICKERINE/static/js/453.171ddc7f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3a16c636.css",
-    "static/js/main.ed795c5c.js"
+    "static/css/main.09927be4.css",
+    "static/js/main.f5f3539e.js"
   ]
 }
