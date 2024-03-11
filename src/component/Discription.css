@@ -1,0 +1,11 @@
+.para {
+    color: black;
+}
+.Discription{
+    color: black;
+    font-weight: 100;
+    container: flex;
+    align-items: center;
+
+}
+
