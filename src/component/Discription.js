@@ -1,4 +1,6 @@
+import DestinationData from './DestinationData.js'
 import './Discription.css'
+
 const Discription = (props) => {
     return(
         <>
@@ -6,22 +8,13 @@ const Discription = (props) => {
                     <h1>{props.title}</h1>
                     <p className="para">{props.text}</p>
                 </div>
-                <div className="FirstSticker">
-                    <div className='paragrap'>
-                        <h2>{props.title2}</h2>
-                        <p>
-                        {props.text2}
-                        </p>
-                    </div>
-
-                    
-
-                    <div class="Image">
-                        <img src={props.image2}></img>
-                        <img src={props.image3}></img>
-                    </div>
-                </div>
                 
+                <DestinationData
+                    title2 = {props.title2}
+                    text2 = {props.text2}
+                    image2 = {props.image2}
+                    image3 = {props.image3}
+                />
        
         </>
     )

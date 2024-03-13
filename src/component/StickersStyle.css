@@ -1,0 +1,11 @@
+
+@media screen and (max-width:850px) {
+ 
+.CARDALLIGNERS{
+    position: "absolute";
+    left:"65%"; transform:"translateX(-50%)";
+    color:"white";
+    
+}
+   
+}
