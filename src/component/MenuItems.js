@@ -17,17 +17,17 @@ const MenuItems = [
         cName : "nav-links",
         icon : "fa-solid fa-briefcase", 
     },
-    {
-        title: "Contact",
-        url : "/contact",
-        cName : "nav-links",
-        icon : "fa-solid fa-address-book", 
-    },
-    {
-        title: "Sign up",
-        url : "/signup",
-        cName : "nav-links-mobile",
-    },
+    // {
+    //     title: "Contact",
+    //     url : "/contact",
+    //     cName : "nav-links",
+    //     icon : "fa-solid fa-address-book", 
+    // },
+    // {
+    //     title: "Sign up",
+    //     url : "/signup",
+    //     cName : "nav-links-mobile",
+    // },
 ];
 
 export {MenuItems};

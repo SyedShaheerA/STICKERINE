@@ -16,12 +16,15 @@ function App() {
       <Navbars/>
 
       <Routes>
+        <Route path='/PROJECT1' element={<Home/>}/>
+        <Route path='/STICKERINE' element={<Home/>}/>
         <Route path='/' element={<Home/>}/>
         <Route path='/about' element= {<About/>}/>
         <Route path='/contact' element={<Contact></Contact>}/>
         <Route path='/service' element={<Service></Service>}/>
 
       </Routes>
+
       
     </div>
   );

@@ -1,4 +1,6 @@
+import AboutUs from "../component/AboutUs";
 import Hero from "../component/Hero";
+import Footer from "../component/footer";
 
 function About(){
     return(<>
@@ -9,6 +11,12 @@ function About(){
         text = ""
         to = ''
     />
+
+    <br>
+    </br>
+    <AboutUs></AboutUs>
+    <br></br>
+    <Footer></Footer>
     </>)
 }
 

@@ -1,6 +1,7 @@
 import Hero from "../component/Hero";
 import Discription from "../component/Discription";
 import Stickers from "../component/Stickers.js";
+import Footer from "../component/footer.js";
 // import Navbars from './component/Navbar2'
 
 function Home(){
@@ -44,7 +45,11 @@ function Home(){
     image3="https://drct.pixilart.com/sizes/sr27418446cf9aws3_400.png"
     titleCard3= "Giraffe"
     textCard3="By Digitress"
+
     />
+
+
+    <Footer/>
     </>)
 }
 
